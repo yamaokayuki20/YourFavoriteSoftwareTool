@@ -26,3 +26,4 @@ Please let me know!
 - hamster
 - Parrot
 - Cat
+- Orca
