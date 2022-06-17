@@ -22,5 +22,8 @@ I am collecting information of your favorite place or impressive place for you t
 
 Examples: 1. パリ (Paris)
 
+# Discussions
+https://github.com/NAIST-SE/AttractingContributors/discussions/531
+
 # List of Places
 1.
