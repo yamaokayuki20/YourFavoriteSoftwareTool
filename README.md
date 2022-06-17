@@ -19,6 +19,7 @@ To complete the assignment, please do the following:
 I am collecting information of your favorite place or impressive place for you that you ever visited or you would like to visit for travel.
 
 あなたの好きな場所、印象に残っている場所、旅行でこれから行ってみたい場所などを教えてください。
+
 Examples: 1. パリ (Paris)
 
 # List of Places
