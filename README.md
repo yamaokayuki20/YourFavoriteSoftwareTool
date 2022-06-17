@@ -15,9 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Project 
+I am collecting information of your favorite place or impressive place for you that you ever visited or you would like to visit for travel.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+あなたの好きな場所、印象に残っている場所、旅行でこれから行ってみたい場所などを教えてください。
 
-# List of Hobby
+# List of Places
+1. パリ
