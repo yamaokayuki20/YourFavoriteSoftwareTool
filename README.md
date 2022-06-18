@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 1. Shirahama
 2. Grand Canyon 
 3. Malaysia
+4. Nara Institute of Science and Technology
