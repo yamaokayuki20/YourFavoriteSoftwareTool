@@ -35,3 +35,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 7. Furong
 8. Vancouver
 9. Bolivia
+10. Zurich
