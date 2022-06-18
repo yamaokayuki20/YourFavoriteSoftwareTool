@@ -26,4 +26,4 @@ Examples: 1. パリ (Paris)
 https://github.com/NAIST-SE/AttractingContributors/discussions/531
 
 # List of Places
-1.
+1. Shirahama
