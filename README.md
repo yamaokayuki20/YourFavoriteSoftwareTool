@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. num:2, Interesting:dmm<br>
 3. num:0, Interesting:KDDI<br>
 4. num:0, Interesting:PornHub<br>
+5. num:0, Interesting:AGC<br>
