@@ -34,3 +34,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 6. Hawaii
 7. Furong
 8. Vancouver
+9. Bolivia
