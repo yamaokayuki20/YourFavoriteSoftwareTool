@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 4. Nara Institute of Science and Technology
 5. Boston
 6. Hawaii
+7. Furong
