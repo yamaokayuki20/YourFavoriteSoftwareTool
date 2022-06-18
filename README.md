@@ -20,4 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# How many Entry Sheet(ES) have you submitted and please write one company you are interested in?
+
+# List of Interesting
+1.　num:4, Interesting:FANZA
