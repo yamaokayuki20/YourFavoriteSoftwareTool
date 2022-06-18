@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 
 # List of Places
 1. Shirahama
+2. Grand Canyon 
