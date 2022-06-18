@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 5. Boston
 6. Hawaii
 7. Furong
+8. Vancouver
