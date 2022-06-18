@@ -23,5 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # How many Entry Sheet(ES) have you submitted and please write one company you are interested in?
 
 # List of Interesting
-1.　num:4, Interesting:FANZA
-2. num:2, Interesting:dmm
+1.　num:4, Interesting:FANZA<br>
+2. num:2, Interesting:dmm<br>
