@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Interesting
 1.　num:4, Interesting:FANZA<br>
 2. num:2, Interesting:dmm<br>
+3. num:0, Interesting:KDDI<br>
