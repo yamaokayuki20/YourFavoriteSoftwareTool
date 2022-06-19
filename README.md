@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. num:0, Interesting:PornHub<br>
 5. num:0, Interesting:AGC<br>
 6. num：1，Intersting：Sony<br>
+7. num:10,Interesting:On the Umeda
