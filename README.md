@@ -27,3 +27,4 @@ Please let me know!
 - Parrot
 - Cat
 - Orca
+- Dog
