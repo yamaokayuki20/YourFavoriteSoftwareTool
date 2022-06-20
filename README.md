@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. num：1，Intersting：Sony<br>
 7. num:10,Interesting:On the Umeda<br>
 8. num:8,Interesting:Rakuten
+9. num:4, Interesting:SONY
