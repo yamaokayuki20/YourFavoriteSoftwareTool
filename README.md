@@ -28,3 +28,5 @@ Example: Notion
 - diagrams.net
 - PowerToys
 - Youtube
+- adobe Ps
+
