@@ -28,4 +28,4 @@ What is your favorite anime?
 7. Jujutsu Kaisen
 8. Gundam Seed
 9. EVA
-10.
+10. Death Note
