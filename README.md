@@ -36,3 +36,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/531
 8. Vancouver
 9. Bolivia
 10. Zurich
+11. Yoron Island
