@@ -26,3 +26,4 @@ Example: Notion
 # List of Software
 - Notion
 - diagrams.net
+- PowerToys
