@@ -29,4 +29,5 @@ Example: Notion
 - PowerToys
 - Youtube
 - adobe Ps
+- Visual Studio Code
 
