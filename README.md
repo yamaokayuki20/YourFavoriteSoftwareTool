@@ -26,6 +26,6 @@ What is your favorite anime?
 5. Card Captor Sakura
 6. Fullmetal Alchemist: Brotherhood
 7. Jujutsu Kaisen
-8.
-9.
+8. Gundam Seed
+9. EVA
 10.
