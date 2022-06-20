@@ -31,6 +31,9 @@ Please write between the slashes.
 /SKY BLUE
 /Red
 /purple
+/Charcoal gray
+
+/purple
 /Green
 /white
 /yellow
