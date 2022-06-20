@@ -23,6 +23,7 @@ I want to know what kind of animals or pets do you love.
 Please let me know!
 
 # List
+- Dog!!!(Jack Russell Terrier)
 - hamster
 - Parrot
 - Cat
