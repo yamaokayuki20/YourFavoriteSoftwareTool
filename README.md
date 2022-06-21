@@ -30,4 +30,5 @@ Example: Notion
 - Youtube
 - adobe Ps
 - Visual Studio Code
+- Papers
 
