@@ -15,7 +15,7 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# What is your favorite software tool?
+# My project -Collecting software tool-
 Thanks for coming!
 I often work on a computer. Please let me know what tools you use to make my work more efficient.
 Example: Notion
